@@ -1,0 +1,22 @@
+.footer {
+	width: 317px;
+	height: 64px;
+	background-color: #161619;
+	color: #918e9b;
+	border-radius: 0 0 11px 11px;
+}
+
+.footer-icons {
+	display: flex;
+	justify-content: center;
+	gap: 24px;
+	align-items: center;
+}
+
+.footer-icons a {
+	color: #918e9b;
+}
+
+.footer-icon {
+	margin-top: 17px;
+}
